@@ -1,0 +1,46 @@
+.container {
+  width : 25%;
+}
+.navbar {
+  width: 30%;
+  margin: 0 auto;
+}
+.line{
+  margin-top: 0;
+}
+.btn{
+  width : 50%;
+  display: flex;
+  justify-content: center;
+}
+.paragraph{
+  font-weight: bold;
+  font-size:15px;
+  text-align:center;
+}
+
+.form-control{
+padding: 20px 40px;
+font-size:15px
+}
+.return{
+font-size:12px;
+text-align:center;
+}
+.forgot{
+  font-size:12px;
+}
+
+
+.inner-addon {
+    position: relative;
+}
+
+.inner-addon .fa {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+.left-addon .fa  {
+  left:  0px;
+}
